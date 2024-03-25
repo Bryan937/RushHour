@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RushHour</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used in the Menu Fragments -->
+    <string name="play">Play</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="previous">Previous</string>
+    <string name="appTitle">Rush Hour \n 8405</string>
+
+    <!-- Strings used in the Game Fragment -->
+    <string name="puzzle">Puzzle</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="record">Record: --/15</string>
+    <string name="moves">Moves</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Game View</string>
+    <string name="teamTitle">Developpers Team</string>
+    <string name="devs">Bryan Junior Ngatshou\nBryan Tadié\nLina Khial \nThéau Bernard</string>
+    <string name="back">Back\n</string>
+    <string name="close">Close</string>
+    <!-- String used in the Success window -->
+    <string name="success_title">Congratulations!"</string>
+    <string name="success_body">You solved the puzzle!</string>
+
+    <!-- String used in the game view fragment -->
+    <string name="success">Success</string>
+    <string name="easter_egg">A cheap rip off</string>
+
+</resources>
